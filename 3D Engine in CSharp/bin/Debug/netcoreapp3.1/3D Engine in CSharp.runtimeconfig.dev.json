@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xdron\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xdron\\.nuget\\packages"
+    ]
+  }
+}
